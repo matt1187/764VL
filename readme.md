@@ -35,5 +35,16 @@ Quote of mkarcher "As S3VBE20 is not "free/open source software", I don't have a
 
 # bill material
 
+- [![csv-file ](https://github.com/matt1187/764VL/blob/main/Gerber/764VL-001.csv)]
+- [![gerber-file ](https://github.com/matt1187/764VL/blob/main/Gerber/764VL-001.zip)]
 
- 
+ # License
+The project is free for non-commercial reproduction. Do not sell it on Ebay or other platforms for profit. Do not make a closed source derivative. Share your experiences and ideas with the community.
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
