@@ -21,11 +21,11 @@ https://github.com/matt1187/765VL
 - rock solid  40 MHz bus-clock with zero wait-state
 - Win 3.1, Win9x, Win NT 3.51 & 4 driver available
 - cheap Trio64 PCI card as component-donor.
-- cheap 2 layer platine layout (and stable up to 90 MHz DRAM clock with S3 ViRGE ) NOTEICE: Reused 325VL-Layout with modification for VAFC.
+- cheap 2 layer platine layout (and stable up to 90 MHz DRAM clock with S3 ViRGE ) NOTICE: Reused 325VL-Layout with modification for VAFC.
   
 # Issues 
 - (need to verify) 50 MHz bus-clock -> RAMDAC isn't capable to handle of high clock (graphic artifact in DOOM). Except this issues,  video card is stable.
-- (need to verify) 765VL doesn't work with Alaris Leopard (486SLC2 Motherboard) 
+- (need to verify) 764VL doesn't work with Alaris Leopard (486SLC2 Motherboard) 
 - small SOJ-40 footprint requires good solder skill. (It works fine with stencil )
 - no official S3 VBE 2.0  with linear framebuffer support. (it requires modification of S3VBE318.EXE)
 
