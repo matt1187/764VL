@@ -22,7 +22,7 @@
 "R9, ","1","150","R","Resistor_SMD:R_0805_2012Metric","Resistor","Mouser","71-CRCW0805150RFKEAC"
 "R10, R11, R12, R13, ","4","330","R","Resistor_SMD:R_0805_2012Metric","Resistor","Mouser","71-CRCW0805330RFKEAC"
 "R14, ","1","100","R","Resistor_SMD:R_0805_2012Metric","Resistor","Mouser","71-CRCW0805100RFKEAC"
-"R50, R51, R52, R100, R103, R104, R105, R106, R107, R108, R110, R112, R113, R114, R115, R116, R117, R118, R119, R120, R121, R122, R123, R124, R125, R130, R131, R132, R133, R134, R135, R136, R137, R144, ","34","10k","R","Resistor_SMD:R_0805_2012Metric","Resistor","Mouser","71-CRCW080510K0FKEAC"
+"R50, R51, R52, R100, R103,  R105, R107, R108, R110, R112,  R114, R116, R118, R130, R132,  R134, R136, R144, ","18","10k","R","Resistor_SMD:R_0805_2012Metric","Resistor","Mouser","71-CRCW080510K0FKEAC"
 "R54, ","1","2.2k","R","Resistor_SMD:R_0805_2012Metric","Resistor","Mouser","71-CRCW08052K20FKEAC"
 "RP1, RP2, RP3, RP4, RP50, RP51, RP52, ","7","33","R_Pack04","Resistor_SMD:R_Array_Convex_4x0603","4 resistor network, parallel topology","Mouser","652-CAY16-33R0F4LF"
 "U1, ","1","86C764","86C764","Package_QFP:PQFP-208_28x28mm_P0.5mm","Mouser",",""varios"," S3 Trio64"
@@ -35,3 +35,4 @@
 "U51, ","1","74LS244","74LS244","Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm","8-bit Bus Buffer 3-State outputs","Mouser","595-SN74HCT244DWR"
 "Y1, ","1","14.31818 MHz","Crystal","Crystal:Crystal_SMD_HC49-SD","Two pin crystal","Mouser","520-143-20-3XENT"
 "Slot bracket ","1","PC Bracket Type 9","","Keystone 9001","","Mouser","534-9200-1"
+
