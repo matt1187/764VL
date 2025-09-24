@@ -37,7 +37,7 @@ Quote of mkarcher "As S3VBE20 is not "free/open source software", I don't have a
 
 - [![csv-file ](https://github.com/matt1187/764VL/blob/main/Gerber/764VL-001.csv)]
 - [![gerber-file ](https://github.com/matt1187/764VL/blob/main/Gerber/764VL-001.zip)]
--config strap ! (sorry, i forgot it )
+
 
  # License
 The project is free for non-commercial reproduction. Do not sell it on Ebay or other platforms for profit. Do not make a closed source derivative. Share your experiences and ideas with the community.
